@@ -19,8 +19,8 @@ cd drake-build
 cmake ../drake
 make -j
 ```
-For source installation, follow the instruction from this [page](https://drake.mit.edu/from_source.html)
+For source installation, follow the instruction from this [page](https://drake.mit.edu/from_source.html).
 
-For binary installation, follow the instruction from this [page](https://drake.mit.edu/pip.html#stable-releases)
+For binary installation, follow the instruction from this [page](https://drake.mit.edu/pip.html#stable-releases).
 
-For tutorial, follow the instruction from this [page](https://github.com/RobotLocomotion/drake/blob/master/tutorials/README.md)
+For tutorial, follow the instruction from this [page](https://github.com/RobotLocomotion/drake/blob/master/tutorials/README.md).
