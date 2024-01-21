@@ -1,5 +1,7 @@
 # Drake
 
+This repository is part of my class project (Bipedal Walking Robots - EEE 6734) at Intelligent Systems and Robotics department in UWF. 
+
 Model-Based Design and Verification for Robotics.
 
 Please see the [Drake Documentation](https://drake.mit.edu) for more
