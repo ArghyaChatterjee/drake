@@ -39,17 +39,30 @@ For binary installation, follow the instruction from this [page](https://drake.m
 
 For tutorial, follow the instruction from this [page](https://github.com/RobotLocomotion/drake/blob/master/tutorials/README.md).
 
-## 1st Assignment
+## 1st Assignment of Bipedal Locomotion Course
+Design a dynamic Simulation of the Rimless Wheel to develop phase portraits of the dynamics. Submit plots of the phase portraits as they vary from different slopes. Plot how the limit cycles of these phase portraits vary when contacts occur at different times. Explain how these elements relate to the physical parameters of the rimless wheel.
+Gamma = 0.0
 ![Alt text](assets/1.gif)
+Gamma = 0.07
 ![Alt text](assets/2.gif)
+Gamma = 0.08
 ![Alt text](assets/3.gif)
+Gamma = 0.09
 ![Alt text](assets/4.gif)
+Gamma = 0.1
 ![Alt text](assets/5.gif)
+Gamma = 0.5
 ![Alt text](assets/6.gif)
+Gamma = 1.0
 ![Alt text](assets/7.gif)
+Gamma = 3.0
 ![Alt text](assets/8.gif)
+Gamma = 6.0
 ![Alt text](assets/9.gif)
+Gamma = 6.2
 ![Alt text](assets/10.gif)
+Gamma = 6.3
 ![Alt text](assets/11.gif)
+Gamma = 7.0
 ![Alt text](assets/12.gif)
 
