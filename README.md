@@ -47,29 +47,41 @@ Design a dynamic Simulation of the Rimless Wheel to develop phase portraits of t
 A rimless wheel acts as a passive dynamic walker.
 #### Slope, 𝜸 = 0.0
 ![Alt text](assets/1.gif)
+
 Phase diagram:
 ![Alt text](assets/1_phase.gif)
 The phase portrait for a rimless wheel on a level surface (slope of 0.0 radians) showcases a distinct dynamic pattern, illustrated by the blue lines which represent the trajectory of the wheel's angular velocity (`thetadot`) against its angular position (`theta`). The star marker indicates the initial condition from which the wheel's motion is simulated. Notably, the trajectories converge into a horizontal band, indicating that, irrespective of the starting angular velocity, the system stabilizes to a steady-state motion with minimal fluctuation in `thetadot`. The lack of a slope means there is no gravitational contribution to the wheel's potential energy, leading to a motion primarily governed by the initial kinetic energy and dissipation due to the ground contact. The uniformity of the gray energy contour lines suggests that energy dissipation is consistent across collisions, which is expected in the absence of a slope. This behavior is indicative of the natural tendency of the rimless wheel to reach a constant rolling speed on a flat surface, highlighting the inherent stability of the system under such conditions.
-Slope, 𝜸 = 0.07
+
+#### Slope, 𝜸 = 0.07
 ![Alt text](assets/2.gif)
-Slope, 𝜸 = 0.08
+
+#### Slope, 𝜸 = 0.08
 ![Alt text](assets/3.gif)
-Slope, 𝜸 = 0.09
+
+#### Slope, 𝜸 = 0.09
 ![Alt text](assets/4.gif)
-Slope, 𝜸 = 0.1
+
+#### Slope, 𝜸 = 0.1
 ![Alt text](assets/5.gif)
-Slope, 𝜸 = 0.5
+
+#### Slope, 𝜸 = 0.5
 ![Alt text](assets/6.gif)
-Slope, 𝜸 = 1.0
+
+#### Slope, 𝜸 = 1.0
 ![Alt text](assets/7.gif)
-Slope, 𝜸 = 3.0
+
+#### Slope, 𝜸 = 3.0
 ![Alt text](assets/8.gif)
-Slope, 𝜸 = 6.0
+
+#### Slope, 𝜸 = 6.0
 ![Alt text](assets/9.gif)
-Slope, 𝜸 = 6.2
+
+#### Slope, 𝜸 = 6.2
 ![Alt text](assets/10.gif)
-Slope, 𝜸 = 6.3
+
+#### Slope, 𝜸 = 6.3
 ![Alt text](assets/11.gif)
-Slope, 𝜸 = 7.0
+
+#### Slope, 𝜸 = 7.0
 ![Alt text](assets/12.gif)
 
