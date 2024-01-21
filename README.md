@@ -38,3 +38,18 @@ For source installation, follow the instruction from this [page](https://drake.m
 For binary installation, follow the instruction from this [page](https://drake.mit.edu/pip.html#stable-releases).
 
 For tutorial, follow the instruction from this [page](https://github.com/RobotLocomotion/drake/blob/master/tutorials/README.md).
+
+## 1st Assignment
+![Alt text](assets/1.gif)
+![Alt text](assets/2.gif)
+![Alt text](assets/3.gif)
+![Alt text](assets/4.gif)
+![Alt text](assets/5.gif)
+![Alt text](assets/6.gif)
+![Alt text](assets/7.gif)
+![Alt text](assets/8.gif)
+![Alt text](assets/9.gif)
+![Alt text](assets/10.gif)
+![Alt text](assets/11.gif)
+![Alt text](assets/12.gif)
+
