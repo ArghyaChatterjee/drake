@@ -51,7 +51,7 @@ A rimless wheel acts as a passive dynamic walker.
 </p>
 
 #### Physical Parameters
-m = 1 kg, l = 1 m, g = 9.8 ms-2, no. of spokes is 8, α = π/8 = 22.5 degrees, initial angle = Theta
+m = 1 kg, l = 1 m, g = 9.8 ms-2, no. of spokes = 8, α = π/8 = 22.5 degrees, initial angle = Theta
 #### Initial Velocity, Thetadot = 1.1 rad/s
 #### Slope, 𝜸 = 0.0 radian
 ![Alt text](assets/1.gif)
